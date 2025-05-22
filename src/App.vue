@@ -9,7 +9,7 @@
 
     <!-- Navigation -->
     <header class="header">
-      <div class="logo">Hello I'M WANDA</div>
+      <div class="logo">WANDA</div>
       <nav class="nav">
         <ul>
           <li><a href="#home" @click.prevent="scrollToSection('home')">Home</a></li>
@@ -41,7 +41,7 @@
       <section id="home" class="home-section">
         <div class="hero-content">
           <div class="hero-text">
-            <h1 class="glitch-text" data-text="AYU WANDA AZALIA">AYU WANDA AZALIA</h1>
+            <h1 class="glitch-text" data-text="Hello I'm WANDA">Hello I'm WANDA</h1>
             <h2>Software Developer & QC Engineer</h2>
             <p>Building digital experiences that combine functionality with aesthetic excellence</p>
             <div class="hero-buttons">
