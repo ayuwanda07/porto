@@ -9,7 +9,7 @@
 
     <!-- Navigation -->
     <header class="header">
-      <div class="logo">AYU WANDA AZALIA</div>
+      <div class="logo">Hello I'M WANDA</div>
       <nav class="nav">
         <ul>
           <li><a href="#home" @click.prevent="scrollToSection('home')">Home</a></li>
