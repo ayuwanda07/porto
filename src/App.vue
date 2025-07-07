@@ -387,7 +387,7 @@ export default {
           title: 'Mobile Toefl App',
           shortDescription: 'TOEFL Learning Mobile App for PENS Student',
           description: 'A mobile application designed to help PENS students prepare for TOEFL examinations. The app provides practice tests, learning materials, and progress tracking to enhance the learning experience.',
-          role: 'UI/UX Designer & Mobile Front-End Developer',
+          role: 'UI/UX Designer, SQA & Mobile Front-End Developer',
           technologies: ['Flutter', 'Figma', 'Mobile Development'],
           duration: 'April - May 2024',
           image: '',
